@@ -1,6 +1,6 @@
 name: Clone for repo sync renamed
 version: 1.0.2
-formatVersion: 3 
+formatVersion: 3
 inputs:
   SelectEnv:
     type: string
