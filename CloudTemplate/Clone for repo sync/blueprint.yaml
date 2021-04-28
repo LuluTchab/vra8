@@ -1,6 +1,6 @@
 name: Clone for repo sync renamed
-version: 1.0.1
-formatVersion: 1
+version: 1.0.2
+formatVersion: 3 
 inputs:
   SelectEnv:
     type: string
@@ -9,6 +9,7 @@ inputs:
       - test
       - dev
       - lulu
+      - tchab
 resources:
   Cloud_SecurityGroup_1:
     type: Cloud.SecurityGroup
