@@ -1,5 +1,5 @@
-name: Clone for repo sync
-version: 1.0.0
+name: Clone for repo sync renamed
+version: 1.0.1
 formatVersion: 1
 inputs:
   SelectEnv:
@@ -8,6 +8,7 @@ inputs:
       - prod
       - test
       - dev
+      - lulu
 resources:
   Cloud_SecurityGroup_1:
     type: Cloud.SecurityGroup
