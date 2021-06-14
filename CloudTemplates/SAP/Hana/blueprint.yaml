@@ -1,4 +1,4 @@
-name: Basic VM
+name: SAP HANA
 version: 1.0.0
 formatVersion: 1
 inputs:
