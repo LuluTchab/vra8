@@ -1,5 +1,5 @@
-name: SAP Application
-version: 1.0.2
+name: NAS Applicative Volume
+version: 1.0.0
 formatVersion: 1
 inputs:
   SelectEnv:

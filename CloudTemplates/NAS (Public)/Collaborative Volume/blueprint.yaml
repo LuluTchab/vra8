@@ -1,6 +1,5 @@
 name: NAS Collaborative Volume
-description: Collaborative Volume
-version: 1.0.2
+version: 1.0.3
 formatVersion: 1
 inputs:
   SelectEnv:
