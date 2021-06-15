@@ -1,5 +1,6 @@
 name: SAP HANA
-version: 1.0.0
+description: SLES15 (SP2) SAP HANA
+version: 1.0.1
 formatVersion: 1
 inputs:
   SelectEnv:
